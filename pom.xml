@@ -147,7 +147,7 @@
 		<!-- https://mvnrepository.com/artifact/org.apache.derby/derbyclient -->
 		<dependency>
 			<groupId>org.apache.derby</groupId>
-			<artifactId>derbyclient</artifactId>
+			<artifactId>derby</artifactId>
 			<version>${derby.version}</version>
 		</dependency>
 
